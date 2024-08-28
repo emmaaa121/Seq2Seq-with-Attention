@@ -20,5 +20,3 @@
 5. **Output Generation**: 
    - Generate a probability distribution over the target vocabulary.
    - Train the model using cross-entropy loss.
-
-![Seq2Seq with Attention Diagram](Seq2Seq%20model.png)
