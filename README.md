@@ -21,4 +21,4 @@
    - Generate a probability distribution over the target vocabulary.
    - Train the model using cross-entropy loss.
 
-![Seq2Seq with Attention Diagram](../../../../Users/weiwu/Desktop/a4/Seq2Seq%20with%20Attention/Screenshot%202024-08-28%20at%2012.06.53%20PM.png)
+![Seq2Seq with Attention Diagram](Seq2Seq%20model.png)
